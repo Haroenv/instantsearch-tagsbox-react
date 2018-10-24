@@ -1,15 +1,14 @@
 {
   "name": "instansearch-tagsbox-react",
-
-  "main": "dist/Tags.js.js",
-  "module": "dist/Tags.css.js",
+  "main": "dist/Tags.js",
+  "module": "dist/Tags.js",
   "files": [ "dist", "README.md" ],
   "repository": {
     "type": "git",
     "url": "https://github.com/algolia/instantsearch-tagsbox-react"
   },
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "private": false,
   "dependencies": {
     "react-instantsearch": "^5.3.1",
     "react-instantsearch-dom": "^5.3.1"
