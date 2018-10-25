@@ -1,4 +1,4 @@
-# [POC] InstantSearch.js - TagsBox Widget for React
+# [POC] React InstantSearch - TagsBox Widget for React
 
 **Disclaimer: this component is published as an experiment. As such, it is not part of the official InstantSearch.js library and might not be suited for production use.**
 
