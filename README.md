@@ -2,12 +2,12 @@
 
 **Disclaimer: this component is published as an experiment. As such, it is not part of the official InstantSearch.js library and might not be suited for production use.**
 
-### How to install?
+## How to install?
 `yarn add instansearch-tagsbox-react`
 
-### How to use?
+## How to use?
 
-You'll need to render the `<Tags />` component inside an `<InstantSearch />` one, like so:
+First, you'll need to render the `<Tags />` component inside an `<InstantSearch />` one.
 
 Also, some props are required to make the component works properly:
 - **tagSelectedComponent**: describe how a selected tag should be displayed, take a `hit` as parameter,

@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/algolia/instantsearch-tagsbox-react"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "dependencies": {
     "react-instantsearch": "^5.3.1",
