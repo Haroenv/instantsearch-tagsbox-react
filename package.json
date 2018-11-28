@@ -1,5 +1,5 @@
 {
-  "name": "instansearch-tagsbox-react",
+  "name": "instantsearch-tagsbox-react",
   "main": "dist/Tags.js",
   "module": "dist/Tags.js",
   "files": [ "dist", "README.md" ],
